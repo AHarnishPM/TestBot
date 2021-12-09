@@ -201,7 +201,7 @@ def vault():
         else:
             print "WRONG CODE"
 
-        instr()
+    instr()
 
 def revecho():
     inw = raw_input("Word> ")
